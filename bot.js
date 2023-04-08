@@ -1,4 +1,5 @@
-    const token = "MTA5NDE5NjAxNjQ4NTUwMzAyNg.Gsn_Rw.pglcqhwKvbYKNjdOKY6L3FvxPjzrq6TIL0JhYY";
+    const token = "MTA5NDE5NjAxNjQ4NTUwMzAyNg.GPw3r4.PybdxsbEO8NoqWwamwBP0-zy-SW_fBjjHgXF9w";
+    const { ask } = require('./ai.js');
     const { Client, Events, GatewayIntentBits } = require('discord.js');
     const client = new Client({
         intents:
