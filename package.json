@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jundewana/bottol.git"
+    "url": "git+https://github.com/Jundewana/botdiscordAI.git"
   },
   "keywords": [
     "#bot",
@@ -47,7 +47,7 @@
   "author": "jundewana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jundewana/bottol/issues"
+    "url": "https://github.com/Jundewana/botdiscordAI/issues"
   },
-  "homepage": "https://github.com/Jundewana/bottol#readme"
+  "homepage": "https://github.com/Jundewana/botdiscordAI#readme"
 }
